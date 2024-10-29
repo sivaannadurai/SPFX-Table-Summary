@@ -42,3 +42,50 @@ gulp package-solution --ship
 
 ![Picture12](https://github.com/user-attachments/assets/502bd72b-56bc-468f-ad63-623c63d3eb20)
 
+
+Workbench
+
+![Picture13](https://github.com/user-attachments/assets/c41c2964-84e6-4490-8eb1-041a12cfbd24)
+
+
+Filter
+
+![Picture14](https://github.com/user-attachments/assets/25167227-0f7d-4733-93e3-f8bf324bf903)
+
+
+Sorting
+
+![Picture15](https://github.com/user-attachments/assets/cafbc173-788a-4a9b-80ee-ac316f601a2c)
+
+Deploy package
+
+![Picture16](https://github.com/user-attachments/assets/621ffc8d-b71b-4040-9e80-bae9f67b64f9)
+
+
+![Picture17](https://github.com/user-attachments/assets/bd7f8993-eb42-4172-80e2-0a196b46540c)
+
+![Picture18](https://github.com/user-attachments/assets/c22a18be-f06c-4773-ae18-8b2f21419747)
+
+
+Upload aimleap-v-1.sppkg file and deploy
+
+Goto sharepoint site and find the app and add it
+
+
+![Picture19](https://github.com/user-attachments/assets/705d1a91-77a3-494f-8ad6-ea6d5737e08f)
+
+
+Add webpart in site pages
+
+After added webpart in site pages> edit webpart map site url & list name
+![Picture20](https://github.com/user-attachments/assets/2ab75009-fd3f-4f5b-82d7-b94bbe494145)
+
+Then apply ok
+
+Video demo screen
+
+
+
+https://github.com/user-attachments/assets/bb1336e7-69fc-435d-a2e5-bfa1538efa7e
+
+
