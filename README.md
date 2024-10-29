@@ -10,8 +10,11 @@ npm list
 npm i axios
 
 import axios from 'axios';
+
 import DataTable from 'react-data-table-component';
+
 npm i react-data-table-component
+
 Sharepoint list
 
 
