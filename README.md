@@ -14,4 +14,13 @@ Columns
 
 Export SPFX package
 
+gulp clean
+![Picture4](https://github.com/user-attachments/assets/29808f49-cf34-404f-9598-02ed85e77e8c)
+
+![Picture5](https://github.com/user-attachments/assets/b38f1086-3b4a-4139-9bdb-e01dd6e4f963)
+
+
+gulp build
+
+![Picture6](https://github.com/user-attachments/assets/4ccdd2f0-3142-4f07-8ba3-b939f3e331ce)
 
