@@ -1,6 +1,8 @@
 SPFX table summary
 
+
 Node version
+
 ![Screenshot 2024-10-29 114702](https://github.com/user-attachments/assets/71e2147e-8300-49bc-85ea-4554fe9ad764)
 
 npm list
